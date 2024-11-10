@@ -1,6 +1,10 @@
 # ASCIIme
 
+[![PyPI version](https://badge.fury.io/py/asciime.svg)](https://badge.fury.io/py/asciime)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Turn your terminal into a kawaii anime experience! ASCIIme is a command-line tool that displays animated ASCII art GIFs in your terminal, with a focus on anime and kawaii content.
+
 
 ## Features
 
