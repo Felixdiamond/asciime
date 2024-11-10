@@ -23,10 +23,10 @@ cd asciime
 pip install -e .
 ```
 
-```markdown
 ## Usage
 
 Basic usage:
+
 ```bash
 # Display a random GIF
 asciime --random
