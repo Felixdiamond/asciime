@@ -30,7 +30,6 @@ classifiers = [
 ]
 dependencies = [
     "aiohttp>=3.8.0",
-    "gif-cli-fast @ git+https://github.com/Felixdiamond/gif-cli-fast.git",
     "Pillow>=9.0.0",
     "rich>=10.0.0",
 ]

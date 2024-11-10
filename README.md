@@ -13,6 +13,13 @@ Turn your terminal into a kawaii anime experience! ASCIIme is a command-line too
 
 ## Installation
 
+First install my fork of the [gif-cli-fast](https://github.com/telnet23/gif-cli-fast) project using:
+```bash
+python -m pip install git+https://github.com/Felixdiamond/gif-cli-fast
+```
+
+Then set up asciime:
+
 ```bash
 # Install from PyPI
 pip install asciime
@@ -34,6 +41,8 @@ asciime --random
 # Normal mode with prefetching and caching
 asciime
 ```
+
+**Note**: I'm using the Free Plan on render so my API usually sleeps in 5 mins or so. If you want 100% uptime, you can set up your own server by cloning the repo [asciime-api](https://github.com/Felixdiamond/asciime-api)
 
 If you want to see a random anime gif whenever you open your terminal:
 
