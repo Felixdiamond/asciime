@@ -23,8 +23,6 @@ cd asciime
 pip install -e .
 ```
 
-I'll help you complete the instructions for displaying a random anime GIF whenever you open your terminal. Here's the updated section:
-
 ```markdown
 ## Usage
 
